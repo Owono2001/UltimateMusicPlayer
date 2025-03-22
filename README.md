@@ -1,10 +1,9 @@
 # UltimateMusicPlayer
 # 🎵 Ultimate Music Player
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/UltimateMusicPlayer?style=social)](https://github.com/yourusername/UltimateMusicPlayer)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
 
-![Application Screenshot](portray/application.png)
+![Application Screenshot](portray/application.jpg)
 
 A modern desktop music player with stunning visualizations and intuitive controls.
 
