@@ -1,0 +1,4 @@
+# requirements.txt
+pygame==2.6.1      # Audio playback and mixing
+Pillow==10.3.0     # Image processing for icons
+pydub==0.25.1      # Audio format conversion
