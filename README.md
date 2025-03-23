@@ -3,7 +3,10 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
 
-![Application Screenshot](portray/application.jpg)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Owono2001&style=flat-square&color=7DF9FF" alt="Profile Views">
+  <p style="font-family: 'Space Mono', monospace; color: #7DF9FF; font-size: 1.2em;">Your visit sparks innovation! 🔥</p>
+</div>
 
 A modern desktop music player with stunning visualizations and intuitive controls.
 
