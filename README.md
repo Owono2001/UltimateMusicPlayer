@@ -3,7 +3,9 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Application Screenshot](portray/application.jpg)
+![Application Screenshot](portray/application.jpg
+
+https://github.com/user-attachments/assets/1e108d97-ac81-4c1d-acff-d624c6a45b00
 
 A feature-rich desktop music player built with Python, Tkinter, and Pygame, featuring multiple format support, playlist management, theme selection, and an aesthetic visualizer.
 
